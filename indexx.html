@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mostrar Texto</title>
+</head>
+<body>
+    <input type="text" id="userInput" placeholder="Escribe algo...">
+    <button onclick="showText()">Mostrar</button>
+    <p id="displayText"></p>
+
+    <script>
+        function showText() {
+            const text = document.getElementById("userInput").value;
+            document.getElementById("displayText").textContent = text;
+        }
+    </script>
+</body>
+</html>
