@@ -1,8 +1,6 @@
 * {
     margin: 20px;
     
-   /* margin-left: 25%;
-    margin-right: 50%;*/
   }
   h1 {
     text-align: center;
@@ -11,7 +9,7 @@
 
   button { 
     background-position: 10%;
-    background-color: green;
+    background-color: goldenrod;
     font-size: large;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
@@ -19,7 +17,8 @@
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-left: 30px;
-    ;
+    
+    
   }
 
   p{
