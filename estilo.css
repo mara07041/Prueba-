@@ -1,0 +1,23 @@
+* {
+    margin: 100;
+    padding: 100;
+  }
+  h1 {
+    text-align: center;
+  }
+
+  button { 
+    background-position: 50%;
+    background-color: green;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  input{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+
+  p{
+    background-color: aquamarine;
+  }
